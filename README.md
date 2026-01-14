@@ -19,7 +19,7 @@ LSG-VAE: A variational autoencoder-based approach for probabilistic time series 
 
 ## Installation
 
-This implementation is built on top of [**ProbTS**](https://github.com/microsoft/probts) and [**K²VAE**](https://github.com/SigmoidFreud/K2VAE). Place the files in the appropriate directories following the K²VAE structure:
+This implementation is built on top of **ProbTS** and **K²VAE**. Place the files in the appropriate directories following the K²VAE structure:
 
 ```
 probts/model/nn/prob/k2VAE/LSG_VAE_nn.py
@@ -46,5 +46,5 @@ Key hyperparameters in `LSG_VAE.yaml`:
 
 Special thanks to the excellent open-source repositories:
 
-- [ProbTS](https://github.com/microsoft/probts) - Unified probabilistic time series forecasting framework
-- [K²VAE](https://github.com/SigmoidFreud/K2VAE) - Koopman-based VAE for time series
+- ProbTS - Unified probabilistic time series forecasting framework
+- K²VAE - Koopman-based VAE for time series
