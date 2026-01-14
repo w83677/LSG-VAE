@@ -1,5 +1,4 @@
-# Back to Basics: Embracing Heteroscedasticity for Robust Probabilistic Time
-Series Forecasting
+# Back to Basics: Embracing Heteroscedasticity for Robust Probabilistic Time Series Forecasting
 
 LSG-VAE: A variational autoencoder-based approach for probabilistic time series forecasting with location-scale Gaussian observation modeling.
 
