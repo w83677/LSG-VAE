@@ -46,4 +46,4 @@ Key hyperparameters in `LSG_VAE.yaml`:
 Special thanks to the excellent open-source repositories:
 
 - ProbTS - Unified probabilistic time series forecasting framework
-- K²VAE - Koopman-based VAE for time series
+- K²VAE - Koopman-based VAE for probabilistic time series forecasting
