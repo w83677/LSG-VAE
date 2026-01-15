@@ -10,7 +10,7 @@ LOG_DIR=./log_dir
 
 
 # if not specify dataset_path, the default path is ./datasets
-for PRED_LEN in 96, 192, 336, 720
+for PRED_LEN in 96 192 336 720
 do 
     python run.py --config config/ltsf/${DATASET}/${MODEL}.yaml --seed_everything 1  \
         --data.data_manager.init_args.path ${DATA_DIR} \
