@@ -1,4 +1,5 @@
-# Back to Basics: Embracing Heteroscedasticity for Robust Probabilistic Time Series Forecasting
+# Catching the Breath of Uncertainty: Embracing Heteroscedasticity for
+Probabilistic Time Series Forecasting
 
 LSG-VAE: A variational autoencoder-based approach for probabilistic time series forecasting with location-scale Gaussian observation modeling.
 
@@ -18,7 +19,7 @@ LSG-VAE: A variational autoencoder-based approach for probabilistic time series 
 
 ## Installation
 
-This implementation is built on top of **ProbTS** and **K²VAE**. Place the files in the appropriate directories following the K²VAE structure:
+This implementation is built on top of **ProbTS** and **K²VAE**. Firstly, please clone the repo of K²VAE, then place the files in the appropriate directories following the K²VAE structure:
 
 ```
 probts/model/nn/prob/k2VAE/LSG_VAE_nn.py
