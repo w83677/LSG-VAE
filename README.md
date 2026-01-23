@@ -1,6 +1,4 @@
-# Catching the Breath of Uncertainty: Embracing Heteroscedasticity for
-Probabilistic Time Series Forecasting
-
+# Embracing Heteroscedasticity for Probabilistic Time Series Forecasting
 LSG-VAE: A variational autoencoder-based approach for probabilistic time series forecasting with location-scale Gaussian observation modeling.
 
 ## Architecture Overview
